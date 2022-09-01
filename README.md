@@ -4,4 +4,4 @@ NPM     : 2106703084
 
 Kelas   : F
 
-Hobi    : menonton
+Hobi    : membaca
